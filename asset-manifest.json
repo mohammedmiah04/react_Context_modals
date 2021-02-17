@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_Context_modals.git/static/css/main.e0f79945.chunk.css",
+    "main.js": "/react_Context_modals.git/static/js/main.9c1f8359.chunk.js",
+    "main.js.map": "/react_Context_modals.git/static/js/main.9c1f8359.chunk.js.map",
+    "runtime-main.js": "/react_Context_modals.git/static/js/runtime-main.ebb9bd91.js",
+    "runtime-main.js.map": "/react_Context_modals.git/static/js/runtime-main.ebb9bd91.js.map",
+    "static/js/2.bf4e2041.chunk.js": "/react_Context_modals.git/static/js/2.bf4e2041.chunk.js",
+    "static/js/2.bf4e2041.chunk.js.map": "/react_Context_modals.git/static/js/2.bf4e2041.chunk.js.map",
+    "index.html": "/react_Context_modals.git/index.html",
+    "precache-manifest.02dddc93b637715dbeac75264bd50809.js": "/react_Context_modals.git/precache-manifest.02dddc93b637715dbeac75264bd50809.js",
+    "service-worker.js": "/react_Context_modals.git/service-worker.js",
+    "static/css/main.e0f79945.chunk.css.map": "/react_Context_modals.git/static/css/main.e0f79945.chunk.css.map",
+    "static/js/2.bf4e2041.chunk.js.LICENSE.txt": "/react_Context_modals.git/static/js/2.bf4e2041.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_Context_modals.git/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb9bd91.js",
+    "static/js/2.bf4e2041.chunk.js",
+    "static/css/main.e0f79945.chunk.css",
+    "static/js/main.9c1f8359.chunk.js"
+  ]
+}
